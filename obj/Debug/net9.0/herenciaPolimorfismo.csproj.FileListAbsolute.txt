@@ -1,0 +1,15 @@
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\bin\Debug\net9.0\herenciaPolimorfismo.exe
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\bin\Debug\net9.0\herenciaPolimorfismo.deps.json
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\bin\Debug\net9.0\herenciaPolimorfismo.runtimeconfig.json
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\bin\Debug\net9.0\herenciaPolimorfismo.dll
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\bin\Debug\net9.0\herenciaPolimorfismo.pdb
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\obj\Debug\net9.0\herenciaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\obj\Debug\net9.0\herenciaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\obj\Debug\net9.0\herenciaPolimorfismo.AssemblyInfo.cs
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\obj\Debug\net9.0\herenciaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\obj\Debug\net9.0\herenciaPolimorfismo.dll
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\obj\Debug\net9.0\refint\herenciaPolimorfismo.dll
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\obj\Debug\net9.0\herenciaPolimorfismo.pdb
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\obj\Debug\net9.0\herenciaPolimorfismo.genruntimeconfig.cache
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\obj\Debug\net9.0\ref\herenciaPolimorfismo.dll
+C:\Users\Ashly Pineda\Desktop\Herencia y Polimorfismo, Tarea\herenciaPolimorfismo\obj\Debug\net9.0\herenciaPolimorfismo.sourcelink.json
